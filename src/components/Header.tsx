@@ -1,5 +1,3 @@
-import { Lusitana } from "next/font/google";
-
 export default function Header() {
     return(
         <>
